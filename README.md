@@ -1,5 +1,7 @@
 # Fundação Potência's database manager, built with Streamlit and integrated with Google Sheets.
 
+This project was the beginning of [Instituto Blooma](https://www.institutoblooma.org.br/bloomer), developed at ITAJr.
+
 ## Table of Contents
 
 - [Overview](#overview)
